@@ -91,6 +91,11 @@ h2 {
     box-shadow: 0 8px 20px rgba(0,0,0,0.2);
     transition: transform 0.3s ease;
 }
+.highlight {
+    color: blue;
+    font-weight: bold;
+    font-size: 22px;
+}
 
 ul, ol {
     padding-left: 30px;
